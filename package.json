@@ -1,0 +1,26 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "deploy": "./deploy.sh"
+  },
+  "dependencies": {
+    "@nuxtjs/sitemap": "^2.4.0",
+    "core-js": "^3.8.2",
+    "gsap": "^3.5.1",
+    "nuxt": "^2.14.12",
+    "vue-slider-component": "^3.2.11"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^7.1.0",
+    "eslint-plugin-prettier": "^3.3.1",
+    "node-sass": "^5.0.0",
+    "prettier": "^2.2.1",
+    "sass-loader": "^10.1.1"
+  }
+}

@@ -1,0 +1,27 @@
+[
+    {
+        "title": "VOUS ET VOTRE FAMILLE",
+        "content": "<p>A votre écoute et à votre service, pour vous conseiller dans les moments importants de votre vie personnelle, notre étude <b>vous accompagne</b> de l'élaboration de <b>votre situation familiale à toutes ses étapes de son évolution :</b></p><ul><li>Mariage, Pacs</li><li>Filiation, adoption</li><li>Changement de régime matrimonial</li><li>Donation</li><li>Divorce</li><li>Succession</li></ul>",
+        "img": "svg/famille.svg"
+    },
+    {
+        "title": "VOUS ET VOTRE PATRIMOINE",
+        "content": "<p>A votre écoute et à votre service, pour vous conseiller dans les moments importants de votre vie patrimoniale, notre étude <b>vous accompagne</b> de la constitution de ce patrimoine, à son adaptation au fil des ans et des événements, à sa protection et à sa transmission :</p><ul><li>Achat, Vente</li><li>Location</li><li>Estimation</li><li>Investissements</li><li>Schémas complexes</li><li>Donation</li><li>Succession</li></ul>",
+        "img": "svg/patrimoine.svg"
+    },
+    {
+        "title": "VOUS ET VOTRE ENTREPRISE",
+        "content": "<p>A votre écoute et à votre service, pour vous conseiller dans les moments importants de votre vie professionnelle, notre étude <b>vous accompagne</b> de la création de votre fonds de commerce ou de votre entreprise à son développement et à sa transmission :</p><ul><li>Choix de la structure juridique à adopter,</li><li>Etablissement des statuts,</li><li>Immobilier d'entreprises,</li><li>Rédactions de baux professionnels ou commerciaux</li><li>Pacte Dutreil de transmission</li><li>Donation</li><li>Succession</li></ul>",
+        "img": "svg/entreprise.svg"
+    },
+    {
+        "title": "VOUS LES PROFESSIONNELS DE L'IMMOBILIER",
+        "content": "<p>A votre écoute et à votre service, pour travailler de concert cette matière dont on partage la passion, l'immobilier, notre étude <b>vous accompagne</b> juridiquement et fiscalement pour servir au mieux nos clients communs :</p><ul><li>Achat, Vente</li><li>Estimation</li><li>Montages complexes d'ensembles immobiliers</li><li>Promotion immobilière</li><li>Bail à construction</li><li>Crédit-bail</li><li>Opération d'achat/revente</li>",
+        "img": "svg/immobilier.svg"
+    },
+    {
+        "title": "VOUS LES INSTITUTIONNELS",
+        "content": "<p>A votre écoute et à votre service, pour travailler de concert toutes les incidences juridiques et fiscales notamment immobilières qui vous concernent, notre étude <b>vous accompagne, collectivités publiques, bailleurs sociaux, etsociétés d'économie mixte,</b>pour servir au mieux vos missions qui sont aussi les nôtres :</p><ul><li>Achat, Vente</li><li>Estimation</li><li>Restructuration</li><li>Bail emphytéotique</li><li>Montages complexes d'ensembles immobiliers</li><li>Contrats sui generis</li></ul><p>L'étude propose la mise en place d'espace-client vous permettant d'accéderà vos données (<b>titre de propriété, attestations, décomptes, …</b>) parle biais d'une plate-forme électronique sécurisée, assurant ainsi un suivicomplet et régulier de vos opérations.</p>",
+        "img": "svg/institutions.svg"
+    }
+]
