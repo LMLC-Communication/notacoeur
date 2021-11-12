@@ -1,6 +1,9 @@
 <template>
   <div>
     <h1>Notre Equipe</h1>
+		<div class="image">
+			
+		</div>
     <img
       class="featured"
       src="../../assets/jpg/Notaires.jpg"

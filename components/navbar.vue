@@ -16,7 +16,7 @@
 				<NuxtLink to="/">
 					<img
 						id="logo"
-						src="~/assets/jpg/logoNotacoeur.jpg"
+						src="~/assets/jpg/logo.jpg"
 						alt="Logo NOTACOEUR"
 					/>
 				</NuxtLink>
@@ -106,6 +106,9 @@ nav {
 }
 img {
 	max-width: 80%;
+	max-height: 120px;
+	object-fit: contain;
+
 	cursor: pointer;
 	transition: transform 0.2s;
 	&:not(:hover) {

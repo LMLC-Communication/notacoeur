@@ -3,7 +3,7 @@
 		<h1>Accueil</h1>
 		<video loop muted autoplay preload="auto" playsinline>
 			<source
-				src="~/assets/videos/video notacoeur.mp4"
+				src="https://backoffice.notacoeur-bourges.notaires.fr/wp-content/uploads/2021/11/video-notacoeur.mp4"
 				type="video/mp4"
 			/>
 			<!-- <source src="~/assets/videos/video notacoeur.webm" type="video/webm" /> -->
