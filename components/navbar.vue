@@ -16,7 +16,7 @@
 				<NuxtLink to="/">
 					<img
 						id="logo"
-						src="~/assets/svg/LogoNotacoeur.svg"
+						src="~/assets/jpg/logoNotacoeur.jpg"
 						alt="Logo NOTACOEUR"
 					/>
 				</NuxtLink>
