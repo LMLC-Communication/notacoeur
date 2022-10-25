@@ -16,7 +16,7 @@
 					<p>Années d'existence</p>
 				</div>
 				<div class="single">
-					<h2><number :value="7" /></h2>
+					<h2><number :value="6" /></h2>
 					<p>Notaires</p>
 				</div>
 			</div>

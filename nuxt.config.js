@@ -5,7 +5,7 @@ export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title:
-      'Notaire à Bourges cedex (18), Office notarial de Bruno Bergerault - Jérôme Bergerault -  Pierre-Olivier Dhalluin - Edouard Brungs',
+      'Notaire à Bourges cedex (18), Office notarial de Jérôme Bergerault - Edouard Brungs',
     htmlAttrs: {
       lang: 'fr',
     },
@@ -31,7 +31,7 @@ export default {
         hid: 'twitter:description',
         name: 'twitter:description',
         content:
-          'Notaire à Bourges cedex (18), Office notarial de Bruno Bergerault - Jérôme Bergerault -  Pierre-Olivier Dhalluin - Edouard Brungs',
+          'Notaire à Bourges cedex (18), Office notarial de Jérôme Bergerault - Edouard Brungs',
       },
       {
         hid: 'twitter:image',
@@ -52,7 +52,7 @@ export default {
         hid: 'og:description',
         property: 'og:description',
         content:
-          'Notaire à Bourges cedex (18), Office notarial de Bruno Bergerault - Jérôme Bergerault -  Pierre-Olivier Dhalluin - Edouard Brungs',
+          'Notaire à Bourges cedex (18), Office notarial Jérôme Bergerault - Edouard Brungs',
       },
       {
         hid: 'og:image',

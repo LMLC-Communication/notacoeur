@@ -4,11 +4,11 @@
 		<div class="image">
 			
 		</div>
-    <img
+    <!-- <img
       class="featured"
       src="../../assets/jpg/Notaires.jpg"
       alt="équipe des notaires"
-    />
+    /> -->
     <div class="notaires" v-if="notaires">
       <h2>Les Notaires</h2>
       <hr />
@@ -85,16 +85,16 @@ export default {
     notaires() {
       return this.personnes
         .filter((notaire) => notaire.acf.profession === 'notaire')
-        .sort((a, b) => {
-          return parseInt(a.acf.position) - parseInt(b.acf.position)
-        })
+        // .sort((a, b) => {
+        //   return parseInt(a.acf.position) - parseInt(b.acf.position)
+        // })
     },
     clercs() {
       return this.personnes
         .filter((notaire) => notaire.acf.profession === 'clerc de notaire')
-        .sort((a, b) => {
-          return parseInt(a.acf.position) - parseInt(b.acf.position)
-        })
+        // .sort((a, b) => {
+        //   return parseInt(a.acf.position) - parseInt(b.acf.position)
+        // })
     },
   },
   async fetch() {
