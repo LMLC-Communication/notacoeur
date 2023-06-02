@@ -47,27 +47,6 @@ export default {
 			},
 		],
 	},
-	async fetch() {
-		const articles = await fetch(
-			'https://backoffice.notacoeur-bourges.notaires.fr/wp-json/acf/v3/posts?per_page=1000'
-		).then((res) => res.json())
-		this.$store.commit('setArticles', articles)
-
-		const data = await fetch(
-			'httpS://api.notacoeur-bourges.notaires.fr/'
-		).then((res) => res.json())
-		this.$store.commit('setAnnonces', data.response.CrpCen.Clef)
-
-		const personnes = await fetch(
-			'https://backoffice.notacoeur-bourges.notaires.fr/wp-json/acf/v3/notaires?per_page=1000&order=asc'
-		).then((res) => res.json())
-		this.$store.commit('setEquipe', personnes)
-
-		const competences = await fetch(
-			'https://backoffice.notacoeur-bourges.notaires.fr/wp-json/acf/v3/competences?per_page=1000&order=asc'
-		).then((res) => res.json())
-		this.$store.commit('setCompetences', competences)
-	},
 }
 </script>
 
