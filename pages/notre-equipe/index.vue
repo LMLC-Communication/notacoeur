@@ -1,19 +1,27 @@
 <template>
+
   <div>
+
     <h1>Notre Equipe</h1>
-		<div class="image">
-			
-		</div>
+
+    <div class="image"> </div>
+
     <!-- <img
       class="featured"
       src="../../assets/jpg/Notaires.jpg"
       alt="équipe des notaires"
     /> -->
+
     <div class="notaires" v-if="notaires">
+
       <h2>Les Notaires</h2>
+
       <hr />
+
       <div class="gallery">
+
         <!-- :to="`/notre-equipe/${notaire.id}`" -->
+
         <NuxtLink
           to=""
           v-for="notaire in notaires.filter(
@@ -22,37 +30,59 @@
           :key="notaire.id"
           class="card"
         >
+
           <img :src="notaire.acf.image" alt="notaire" class="notaire" />
+
           <img
             src="../../assets/jpg/logoNotacoeur.jpg"
             alt="Logo NOTACOEUR"
             class="hover-logo"
           />
+
           <h3 :class="far(notaire)">
-            {{ notaire.acf.prenom }} {{ notaire.acf.nom }}
+             {{ notaire.acf.prenom }} {{ notaire.acf.nom }}
           </h3>
+
           <p>{{ notaire.acf.label_profession }}</p>
+
         </NuxtLink>
+
       </div>
+
     </div>
+
     <div class="clercs" v-if="clercs">
+
       <h2>Les Clercs de Notaires</h2>
+
       <hr />
+
       <div class="gallery">
+
         <!-- :to="`/notre-equipe/${clerc.id}`" -->
+
         <NuxtLink to="" v-for="clerc in clercs" :key="clerc.id" class="card">
+
           <img :src="clerc.acf.image" alt="clerc" class="clerc" />
+
           <img
             src="../../assets/jpg/logoNotacoeur.jpg"
             alt="Logo NOTACOEUR"
             class="hover-logo"
           />
+
           <h3 class="nom">{{ clerc.acf.prenom }} {{ clerc.acf.nom }}</h3>
+
           <p>{{ clerc.acf.label_profession }}</p>
+
         </NuxtLink>
+
       </div>
+
     </div>
+
   </div>
+
 </template>
 
 <script>
@@ -83,26 +113,29 @@ export default {
   },
   computed: {
     notaires() {
-      return this.personnes
-        .filter((notaire) => notaire.acf.profession === 'notaire')
-        // .sort((a, b) => {
-        //   return parseInt(a.acf.position) - parseInt(b.acf.position)
-        // })
+      return this.personnes.filter(
+        (notaire) => notaire.acf.profession === 'notaire'
+      )
+      // .sort((a, b) => {
+      //   return parseInt(a.acf.position) - parseInt(b.acf.position)
+      // })
     },
     clercs() {
-      return this.personnes
-        .filter((notaire) => notaire.acf.profession === 'clerc de notaire')
-        // .sort((a, b) => {
-        //   return parseInt(a.acf.position) - parseInt(b.acf.position)
-        // })
+      return this.personnes.filter(
+        (notaire) => notaire.acf.profession === 'clerc de notaire'
+      )
+      // .sort((a, b) => {
+      //   return parseInt(a.acf.position) - parseInt(b.acf.position)
+      // })
     },
   },
   async fetch() {
     this.personnes = await fetch(
       'https://backoffice.notacoeur-bourges.notaires.fr/wp-json/acf/v3/notaires?per_page=1000&order=asc'
     ).then((res) => res.json())
-    this.$store.commit('setEquipe', this.personnes)
+    console.log(this.personnes)
   },
+  fetchOnServer: false,
 }
 </script>
 
@@ -249,3 +282,4 @@ img.featured {
   }
 }
 </style>
+
