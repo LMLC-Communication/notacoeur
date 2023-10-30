@@ -9,24 +9,24 @@
             <h2>NOTACOEUR</h2>
             <p>
               Situé au coeur du quartier historique de la ville de Bourges, près
-              de la Mairie de la Cathédrale classée UNESCO, Maîtres Jérome Bergerault, Edouard
-              Brungs, Séverine Thomas, Albane Bernachez, Arthur Bergerault, Amélie Bedu-Sah
-              ainsi que leurs collaborateurs vous accueillent dans leurs locaux
-              situés 42 rue Moyenne à Bourges,<br />
+              de la Mairie de la Cathédrale classée UNESCO, Maîtres Jérome
+              Bergerault, Edouard Brungs, Séverine Thomas, Albane Bernachez,
+              Arthur Bergerault, Amélie Bedu-Sah ainsi que leurs collaborateurs
+              vous accueillent dans leurs locaux situés 42 rue Moyenne à
+              Bourges,<br />
               L’étude dispose d’un parking réservé à la clientèle, et vous
               pouvez utiliser le parking de la Mairie juste aux abords de notre
-              étude<br /><br />
+              étude.<br /><br />
               Etude historique de Bourges, son essor remonte aux années trente
-              par l’installation d’Henri Bergerault qui vit avec ses trois fils
-              Jean, Francis, puis Bruno Bergerault s’associer avec lui, par la
-              suite un petit-fils Jérôme, et plus récemment un arrière
-              petit-fils Arthur.<br /><br />
+              par l’installation d’Henri Bergerault, Jean, Francis, puis Bruno
+              Bergerault s’associer avec lui, par la suite un petit-fils Jérôme,
+              et plus récemment un arrière petit-fils Arthur.<br /><br />
               Mais l’étude adopte désormais le nom de NOTACOEUR, pour donner
               toute la dimension notariale à cet Office lié à la région Centre,
               au coeur de nos territoires, lié au personnage haut en couleur de
               Jacques Cœur, qui a fait la renommée de Bourges inventant le
-              commerce international , et lié à notre profonde conception de
-              notre métier où l’humain a encore une place primordiale.
+              commerce international , et lié à notre profonde conception du
+              métier où l’humain a encore une place primordiale.
             </p>
           </div>
         </div>
