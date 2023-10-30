@@ -17,16 +17,17 @@
               L’étude dispose d’un parking réservé à la clientèle, et vous
               pouvez utiliser le parking de la Mairie juste aux abords de notre
               étude.<br /><br />
-              Etude historique de Bourges, son essor remonte aux années trente
-              par l’installation d’Henri Bergerault, Jean, Francis, puis Bruno
-              Bergerault s’associer avec lui, par la suite un petit-fils Jérôme,
-              et plus récemment un arrière petit-fils Arthur.<br /><br />
+              Étude historique de Bourges, son essor remonte aux années trente
+              par l’installation d’Henri Bergerault qui vit ses fils Jean,
+              Francis puis Bruno Bergerault s’associer avec lui, par la suite un
+              petit-fils Jérôme, et plus récemment un arrière petit-fils
+              Arthur.<br /><br />
               Mais l’étude adopte désormais le nom de NOTACOEUR, pour donner
               toute la dimension notariale à cet Office lié à la région Centre,
               au coeur de nos territoires, lié au personnage haut en couleur de
-              Jacques Cœur, qui a fait la renommée de Bourges inventant le
-              commerce international , et lié à notre profonde conception du
-              métier où l’humain a encore une place primordiale.
+              Jacques Cœur, qui a fait la renommée de Bourges, inventant le
+              commerce international , et lié à notre profonde conception de
+              notre métier où l’humain a encore une place primordiale.
             </p>
           </div>
         </div>
