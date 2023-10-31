@@ -11,38 +11,35 @@
       </thead>
       <tbody>
         <tr>
-          <td><h3>Pacte Civil de Solidarite (PACS)</h3></td>
+          <td><h3>Pacte Civil de Solidarité (PACS)</h3></td>
           <td>270€</td>
-          <td class="cross">×</td>
+          <td >Tarifé</td>
         </tr>
         <tr>
           <td><h3>Contrat de mariage</h3></td>
           <td>260€</td>
-          <td class="cross">×</td>
+          <td >Tarifé</td>
         </tr>
         <tr>
-          <td><h3>Donation entre epoux</h3></td>
+          <td><h3>Donation entre époux</h3></td>
           <td>370€</td>
-          <td class="cross">×</td>
+          <td >Tarifé</td>
         </tr>
         <tr>
           <td><h3>Convention quasi usufruit (&lt;300 000€)</h3></td>
           <td>960€ + coût d'inscription FCDDV + coût enregistrement (125€)</td>
-          <td class="cross">×</td>
-        </tr>
+          <td >Tarifé</td>        </tr>
         <tr>
           <td><h3>Convention quasi usufruit (>300 000€)</h3></td>
           <td>selon lettre de mission</td>
-          <td class="cross">×</td>
-        </tr>
+          <td >Tarifé</td>        </tr>
         <tr>
           <td colspan="3" class="title"><h2>Testament</h2></td>
         </tr>
         <tr>
           <td><h3>Testament authentique</h3></td>
           <td>230€</td>
-          <td class="cross">×</td>
-        </tr>
+          <td >Tarifé</td>        </tr>
         <tr>
           <td>
             <h3>Testament olographe</h3>
@@ -50,17 +47,17 @@
             Dispositions de Dernières Volontés)
           </td>
           <td>100€ + coût inscription FCDDV</td>
-          <td class="check">✓</td>
+          <td >Honoraires</td>
         </tr>
         <tr>
           <td><h3>Formalités d'envoi en possession</h3></td>
           <td>720€</td>
-          <td class="check">✓</td>
+          <td >Honoraires</td>
         </tr>
         <tr>
           <td><h3>Dépôt jugement de divorce</h3></td>
           <td>500€</td>
-          <td class="check">✓</td>
+          <td >Honoraires</td>
         </tr>
         <tr>
           <td><h3>Construction de société</h3></td>
@@ -68,17 +65,48 @@
           <td>1.050€ inclus</td>
         </tr>
         <tr>
+          <td colspan="3" class="title">
+            <h2>Société</h2>
+          </td>
+        </tr>
+        <tr>
+          <td ><h3>Constitution de société</h3></td>
+          <td>selon lettre de mission</td>
+          <td >Honoraires</td>
+        </tr>
+        <tr>
+          <td >
+            <h3>Modification statuts de société</h3>
+          </td>
+          <td>selon lettre de mission</td>
+          <td >Honoraires</td>
+        </tr>
+        <tr>
+          <td ><h3>Liquidation de société</h3></td>
+          <td>selon lettre de mission</td>
+          <td >Honoraires</td>
+        </tr>
+        <tr>
+          <td ><h3>Cession de fonds de commerce</h3></td>
+          <td>selon lettre de mission</td>
+          <td >Honoraires</td>
+        </tr>
+        <tr>
+          <td ><h3>Bail commercial</h3></td>
+          <td>selon lettre de mission</td>
+          <td >Honoraires</td>
+        </tr>
+        <tr>
           <td colspan="3" class="title"><h2>Procuration</h2></td>
         </tr>
         <tr>
           <td><h3>Procuration authentique</h3></td>
           <td>entre 65€ et 90€ selon le nombre de pages et annexes</td>
-          <td class="cross">×</td>
-        </tr>
+          <td >Tarifé</td>        </tr>
         <tr>
           <td><h3>Procuration sous-seing privé</h3></td>
           <td>20€</td>
-          <td class="check">✓</td>
+          <td >Honoraires</td>
         </tr>
         <tr>
           <td colspan="3" class="title"><h2>Avant-contrat</h2></td>
@@ -86,8 +114,7 @@
         <tr>
           <td><h3>Promesse authentique unilatérale</h3></td>
           <td>200€ (+ coût enregistrement 125€)</td>
-          <td class="cross">×</td>
-        </tr>
+          <td >Tarifé</td>        </tr>
         <tr>
           <td>
             <h3>Promesse sous-seing privé synallagmatique (compromis)</h3>
@@ -95,7 +122,34 @@
             en complément
           </td>
           <td>120€</td>
-          <td class="check">✓</td>
+          <td >Honoraires</td>
+        </tr>
+        <tr>
+          <td colspan="3" class="title">
+            <h2>Prêt</h2>
+          </td>
+        </tr>
+        <tr>
+          <td ><h3>Commodat-Prêt à usage</h3></td>
+          <td>500€</td>
+          <td >Honoraires</td>
+        </tr>
+        <tr>
+          <td colspan="3" class="title">
+            <h2>Expertertise immobilière</h2>
+          </td>
+        </tr>
+        <tr>
+          <td ><h3>Avis de valeur(Bourges)</h3></td>
+          <td>250€</td>
+          <td >Honoraires</td>
+        </tr>
+        <tr>
+          <td >
+            <h3>Avis de valeur(Hors Bourges)</h3>
+          </td>
+          <td>280€</td>
+          <td >Honoraires</td>
         </tr>
         <tr>
           <td colspan="3" class="title">
@@ -123,65 +177,6 @@
             <h3>Au-delà de 200.000€</h3>
           </td>
           <td>4% avec minimum de 10.000€</td>
-        </tr>
-        <tr>
-          <td colspan="3" class="title">
-            <h2>Société</h2>
-          </td>
-        </tr>
-        <tr>
-          <td ><h3>Constitution de société</h3></td>
-          <td>selon lettre de mission</td>
-          <td class="check">✓</td>
-        </tr>
-        <tr>
-          <td >
-            <h3>Modification status de société</h3>
-          </td>
-          <td>selon lettre de mission</td>
-          <td class="check">✓</td>
-        </tr>
-        <tr>
-          <td ><h3>Liquidation de société</h3></td>
-          <td>selon lettre de mission</td>
-          <td class="check">✓</td>
-        </tr>
-        <tr>
-          <td ><h3>Cession de fonds de commerce</h3></td>
-          <td>selon lettre de mission</td>
-          <td class="check">✓</td>
-        </tr>
-        <tr>
-          <td ><h3>Bail commercial</h3></td>
-          <td>selon lettre de mission</td>
-          <td class="check">✓</td>
-        </tr>
-        <tr>
-          <td colspan="3" class="title">
-            <h2>Prêt</h2>
-          </td>
-        </tr>
-        <tr>
-          <td ><h3>Commodat-Prêt à usage</h3></td>
-          <td>500€</td>
-          <td class="check">✓</td>
-        </tr>
-        <tr>
-          <td colspan="3" class="title">
-            <h2>Expertertise immobilière</h2>
-          </td>
-        </tr>
-        <tr>
-          <td ><h3>Avis de valeur(Bourges)</h3></td>
-          <td>250€</td>
-          <td class="check">✓</td>
-        </tr>
-        <tr>
-          <td >
-            <h3>Avis de valeur(Hors Bourgesg)</h3>
-          </td>
-          <td>280€</td>
-          <td class="check">✓</td>
         </tr>
       </tbody>
     </table>
@@ -250,12 +245,7 @@ p {
     font-size: 12px;
   }
 }
-.check {
-  color: green;
-}
-.cross {
-  color: red;
-}
+
 table {
   @media screen and (max-width: 1000px) {
     font-size: 12px;
