@@ -60,6 +60,7 @@ export default {
 			(competence) => competence.id !== parseInt(this.$route.params.id)
 		)
 	},
+	fetchOnServer: false,
 }
 </script>
 

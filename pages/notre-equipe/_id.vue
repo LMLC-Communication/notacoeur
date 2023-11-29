@@ -29,6 +29,7 @@ export default {
 		// 	this.notaire.acf.description
 		// }
 	},
+	fetchOnServer: false,
 }
 </script>
 

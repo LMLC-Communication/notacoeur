@@ -42,5 +42,6 @@ export default {
 		).then((res) => res.json())
 		this.$store.commit('setCompetences', this.competences)
 	},
+	fetchOnServer: false,
 }
 </script>

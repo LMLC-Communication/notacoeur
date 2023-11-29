@@ -378,6 +378,7 @@ export default {
 			return 0
 		})
 	},
+	fetchOnServer: false,
 }
 </script>
 

@@ -30,8 +30,8 @@ export default {
 		this.articles = await fetch(
 			'https://backoffice.notacoeur-bourges.notaires.fr/wp-json/acf/v3/posts?per_page=1000'
 		).then((res) => res.json())
-		this.$store.commit('setArticles', this.articles)
 	},
+	fetchOnServer: false,
 }
 </script>
 
