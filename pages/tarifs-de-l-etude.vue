@@ -55,16 +55,6 @@
           <td >Honoraires</td>
         </tr>
         <tr>
-          <td><h3>Dépôt jugement de divorce</h3></td>
-          <td>500€</td>
-          <td >Honoraires</td>
-        </tr>
-        <tr>
-          <td><h3>Construction de société</h3></td>
-          <td>2.000€</td>
-          <td>1.050€ inclus</td>
-        </tr>
-        <tr>
           <td colspan="3" class="title">
             <h2>Société</h2>
           </td>
@@ -114,7 +104,7 @@
         <tr>
           <td><h3>Promesse authentique unilatérale</h3></td>
           <td>200€ (+ coût enregistrement 125€)</td>
-          <td >Tarifé</td>        </tr>
+          <td >Honoraires</td>        </tr>
         <tr>
           <td>
             <h3>Promesse sous-seing privé synallagmatique (compromis)</h3>
