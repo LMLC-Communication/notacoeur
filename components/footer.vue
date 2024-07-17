@@ -10,12 +10,11 @@
         <div class="section">
           <h2>Notaires Associés</h2>
           <p>
-            Jérôme Bergerault | Arthur Bergerault | Séverine Thomas | Edouard
-            Brungs
+            Edouard Brungs | Séverine Thomas | Arthur Bergerault | Amélie Sah-Bedu
           </p>
           <br />
           <h2>Notaires Salariés</h2>
-          <p>Albane Bernachez | Amélie Bedu-Sah</p>
+          <p>Albane Bernachez</p>
         </div>
         <hr />
         <div class="section">
