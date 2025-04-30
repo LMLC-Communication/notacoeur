@@ -4,8 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title:
-      'Notaire à Bourges cedex (18), Office notarial de Jérôme Bergerault - Edouard Brungs',
+    title: 'Bourges Notacoeur - Office Notarial',
     htmlAttrs: {
       lang: 'fr',
     },
@@ -15,7 +14,7 @@ export default {
       {
         hid: 'description',
         name: 'description',
-        content: 'Etude Notariale de Bourges',
+        content: 'Office notarial à Bourges - Expertise en droit immobilier, familial et patrimonial. Notaires Jérôme Bergerault et Edouard Brungs vous accompagnent dans tous vos projets.',
       },
       {
         hid: 'twitter:card',
@@ -25,13 +24,12 @@ export default {
       {
         hid: 'twitter:title',
         name: 'twitter:title',
-        content: 'Etude Notariale de Bourges',
+        content: 'Bourges Notacoeur - Office Notarial',
       },
       {
         hid: 'twitter:description',
         name: 'twitter:description',
-        content:
-          'Notaire à Bourges cedex (18), Office notarial de Jérôme Bergerault - Edouard Brungs',
+        content: 'Office notarial à Bourges - Expertise en droit immobilier, familial et patrimonial. Notaires Jérôme Bergerault et Edouard Brungs.',
       },
       {
         hid: 'twitter:image',
@@ -52,7 +50,7 @@ export default {
         hid: 'og:description',
         property: 'og:description',
         content:
-          'Notaire à Bourges cedex (18), Office notarial Jérôme Bergerault - Edouard Brungs',
+          'Notaire à Bourges, Office notarial Jérôme Bergerault - Edouard Brungs',
       },
       {
         hid: 'og:image',
